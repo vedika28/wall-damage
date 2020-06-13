@@ -1,2 +1,2 @@
-# wall-damage
-The programme checks the damage done by a bullets to the wall.
+# p5.play-boilerplate
+Boiler plate for p5.play
